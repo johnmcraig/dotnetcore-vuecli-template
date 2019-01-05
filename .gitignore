@@ -1,0 +1,6 @@
+.vscode
+.vs
+obj/
+bin/
+wwwroot/dist/
+node_modules/
