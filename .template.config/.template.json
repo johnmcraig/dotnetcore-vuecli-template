@@ -1,0 +1,17 @@
+{
+    "author": "John M. Craig",
+    "classifications": ["Web"],
+    "name": ".Net Core MVC with Vue.js",
+    "identity": "dotnetvuecli.StarterWeb",
+    "shortName": "mvcvue",
+    "tags": {
+      "language": "C#"
+    },
+    "sourceName": "dotnetvuecli.StarterWeb",
+    "preferNameDirectory": "true",
+    "sources": {
+      "source": "./",
+      "target": "./",
+      "exclude": [".template.config/**", "node_modules/**"]
+    }
+  }
